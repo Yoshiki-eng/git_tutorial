@@ -1,3 +1,5 @@
 first message
 second message
 third message - on first-branch
+reset message
+PR test 
